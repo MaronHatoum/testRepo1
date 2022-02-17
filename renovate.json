@@ -2,7 +2,7 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "hostRules": [
     {
-      "hostType": "npm",
+      "hostType": "docker",
       "abortOnError": false,
       "matchHost": "https://registry.npmjs.org/"
     }
